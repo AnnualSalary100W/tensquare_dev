@@ -15,10 +15,10 @@ zuul:
       path: /base/**
       serviceId: tensquare-base
     tensquare-user:
-      path: /user/** 
-      serviceId: tensquare-user 
+      path: /user/**
+      serviceId: tensquare-user
     tensquare-qa:
-      path: /qa/**   
+      path: /qa/**
       serviceId: tensquare-qa
 rabbitmq:
     host: 192.168.66.128
