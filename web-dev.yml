@@ -20,3 +20,6 @@ zuul:
     tensquare-qa:
       path: /qa/** #配置请求URL的请求规则  
       serviceId: tensquare-qa #指定Eureka注册中心中的服务id
+rabbitmq:
+    host: 192.168.66.128
+
