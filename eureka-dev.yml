@@ -6,3 +6,5 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://127.0.0.1:${server.port}/eureka/
+  rabbitmq:
+    host: 192.168.66.128     
