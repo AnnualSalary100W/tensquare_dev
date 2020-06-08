@@ -1,7 +1,7 @@
 server:
   port: 6868
   rabbitmq:
-    host: 192.168.66.128   
+   host: 192.168.66.128   
 eureka:
   client:
     register-with-eureka: false
